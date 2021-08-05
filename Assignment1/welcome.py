@@ -1,3 +1,2 @@
-print("My first Assignment")
-print("hello")
-
+name = input("Enter your name")
+print("Hello " + name)
